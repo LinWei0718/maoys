@@ -1,9 +1,9 @@
 {
-"spider" : "https://github.com/LinWei0718/maoys/blob/main/20220618.jar?raw=true",
+"spider" : "https://github.com/LinWei0718/maoys/blob/main/0606.jar?raw=true",
 "sites" : [
 {"name" : "究極無敵縫合源,東拼西湊,不加密,特别感謝所有源原作者,僅供自用"},
 {"name" : "爬蟲"},
-//{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"🐱酷貓","type":3},
+{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"🐱酷貓","type":3},
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"🎬77","type":3},
 {"api":"csp_LiteApple","key":"csp_LiteApple","filterable":1,"name":"🍎小蘋果","type":3},
 {"key": "csp_DiDuan","name": "📙低端影視","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
